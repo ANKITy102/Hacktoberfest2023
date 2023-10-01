@@ -31,7 +31,7 @@ npm start
 ```bash
 git checkout -b your-username
 ```
-- Make your changes and commit them: 
+- Make your changes in the specific folder in `./src/Components` and commit them: 
 ```bash 
 git commit -m "Added a Transparent Navbar"
 ```

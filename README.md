@@ -5,11 +5,11 @@
 
 📢 **Register [here](https://hacktoberfest.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to get awesome rewards! 🔥.**
 
-<img src="./logo.png" alt="Hacktoberfest2023 Banner"/>
+<img src="./public/hacktoberfest_icon.png" alt="Hacktoberfest2023 Banner"/>
 
 ![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet.svg)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
-![React](https://img.shields.io/badge/React-^17.0.0-blue.svg)
+![React](https://img.shields.io/badge/React-^18.2.0-blue.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-^2.2.19-38B2AC.svg)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
@@ -37,13 +37,13 @@ npm install
 ```
 - Start the development server: 
 ```bash
-npm start
+npm run dev
 ```
 - Create a new branch for your contribution: 
 ```bash
 git checkout -b your-username
 ```
-- Make your changes and commit them: 
+- Make your changes in the specific folder in `./src/Components` and commit them: 
 ```bash 
 git commit -m "Added a Transparent Navbar"
 ```
