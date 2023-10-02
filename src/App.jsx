@@ -1,10 +1,10 @@
 import React from "react"
-import GlassNavbar from "./Components/Navbars/GlassNavbar/GlassNavbar"
+import Home from "./Component/Home"
 function App() {
 
   return (
     <>
-      <GlassNavbar/>
+      <Home/>
     </>
   )
 }
