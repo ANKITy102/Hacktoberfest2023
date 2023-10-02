@@ -7,7 +7,6 @@ function App() {
 
   return (
     <>
-      <Home/>
       <GlassNavbar/>
       <Footer />
       <CodeBox/>
