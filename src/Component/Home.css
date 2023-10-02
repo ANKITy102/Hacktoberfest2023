@@ -1,0 +1,5 @@
+.landingPage{
+    background-image: url("../assets/images/landingPageBackground.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
