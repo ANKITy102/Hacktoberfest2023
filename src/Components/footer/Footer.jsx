@@ -17,6 +17,7 @@ const Footer = () => {
                    textAlign: "center", 
                    marginTop: "-50px" }}>
       </h1>
+      
       <Container>
         <Row>
           <Column>
@@ -73,6 +74,11 @@ const Footer = () => {
         </Row>
       </Container>
     </Box>
+
+
+
+
+
   );
 };
 export default Footer;
