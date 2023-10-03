@@ -1,6 +1,6 @@
 // import React from "react"
 import GlassNavbar from "./Components/Navbars/GlassNavbar/GlassNavbar"
-import Footer from "./Components/footer/Footer"
+import Sidebar from "./Components/Sidebar"
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <GlassNavbar/>
-      <Footer />
+      <Sidebar />
 
     </>
   )
