@@ -22,7 +22,7 @@ const Sidebar = () => {
     <div style={sidebarStyle} className="bg-[#E6EDFF] text-black h-screen transition-all duration-300 relative">
       <div className="p-4">
         <h2 className="text-2xl font-semibold">
-          <FontAwesomeIcon icon={faCube} className="mr-2" />
+          <FontAwesomeIcon icon={faCube} className="mr-2 mt-14" />
           Components
         </h2>
       </div>
